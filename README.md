@@ -1,10 +1,8 @@
 # useReducer Workshop
+Practice makes perfect! Pair programming practice of using the useReducer React hook. 
+We completed this workshop task to practice using the useReducer hook.
 
-## Task 1 - Refactor A Counter With useReducer
+# counter component
+ src/components/Counter
+- Used https://reactjs.org/docs/hooks-reference.html#usereducer documentation 
 
-- Navigate to src/components/Counter
-- Use https://reactjs.org/docs/hooks-reference.html#usereducer documentation to refactor the counter with the useReducer hook.
-
-## Task 2 - Test Your Reducer
-
-- Test your reducer function using jest.
